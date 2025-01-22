@@ -37,9 +37,17 @@ Commands to Run the Project:
 
 
 **Install dependencies🎉:**
+
+
+
+
 <br/>
 **npm install**
 <br/>
 **Start the development server💻:**
+
+
+
+
 <br/>
 **npm run dev**
