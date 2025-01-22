@@ -10,16 +10,7 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>
 );
- git add "eslint.config.js"
- git add "package-lock.json"
- git add "postcss.config.js"
- git add "package.json"
- git add "src/"
- git add "tailwind.config.js"
- git add "tsconfig.app.json"
- git add "tsconfig.json"
- git add "tsconfig.node.json"
- git add "vite.config.ts"
+ 
  
 
 
