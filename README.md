@@ -1,5 +1,5 @@
 # Point-of-Sale-POS-
-You have developed a frontend website using ReactJS, Zustand, TailwindCSS, and TypeScript. The site includes the following key features:
+You have developed a frontend website using **ReactJS, Zustand, TailwindCSS, and TypeScript**. The site includes the following key features:🚀
 
 Select Services: Users can browse and choose from a variety of available services like fitness classes, therapy sessions, or workshops.
 <br/>
@@ -13,6 +13,10 @@ Receipt Generation: Upon successful checkout, the site generates and displays a 
 <br/>
 Commands to Run the Project:
 <br/>
-Install dependencies: npm install
+**Install dependencies:**
 <br/>
-Start the development server: npm run dev
+npm install
+<br/>
+**Start the development server:**
+<br/>
+npm run dev
