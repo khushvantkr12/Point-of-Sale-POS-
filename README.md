@@ -21,7 +21,7 @@ Customer Management: During the checkout process, users have the option to input
 
 
 
-Payments: A simulated checkout and payment process allows users to experience a payment flow without real integrations.
+Payments💵: A simulated checkout and payment process allows users to experience a payment flow without real integrations.
 <br/>
 
 
@@ -36,10 +36,10 @@ Commands to Run the Project:
 
 
 
-**Install dependencies:**
+**Install dependencies🎉:**
 <br/>
-npm install
+**npm install**
 <br/>
-**Start the development server:**
+**Start the development server💻:**
 <br/>
-npm run dev
+**npm run dev**
